@@ -38,7 +38,7 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath" />
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
